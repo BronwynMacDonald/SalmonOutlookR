@@ -2,6 +2,7 @@
 # salmonOutlookOSMFn.R
 # By Erika Anderson
 # Created August 2018
+# duplicate function using Open Street Map instead of Google
 
 #======================================================================================================
 #' Salmon Outlook Maps
