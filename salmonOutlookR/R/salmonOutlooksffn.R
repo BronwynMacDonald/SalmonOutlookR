@@ -1,4 +1,6 @@
+# test script to use another R package instead of ggmap
 # use sf package to plot instead of ggmap
+
 
 library(ggplot2)
 library(ggmap)
