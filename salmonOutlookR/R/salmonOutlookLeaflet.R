@@ -1,3 +1,5 @@
+# test script to use leaflet with salmon maps
+# unfinished
 # https://rstudio.github.io/leaflet/map_widget.html
 
 library(leaflet)
