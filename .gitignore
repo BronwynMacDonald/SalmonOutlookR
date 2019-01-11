@@ -34,3 +34,34 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+.Ruserdata
+.pdf
+.html
+.docx
+.Rnw
+.Snw
+.aux
+.log
+.nav
+.out
+.nav
+.snm
+.tex
+.toc
+.ppt
+*knitr-cache
+*knitr-cache-tex
+*knitr-figs
+*knitr-cache-docx
+^examples/knitr-examples/knitr-cache-*
+.rdb
+.rdx
+
+OldCode.R 
+OldCode.r 
+Input/
+Output/
+.Rproj.user
+RData/
+InputData/
