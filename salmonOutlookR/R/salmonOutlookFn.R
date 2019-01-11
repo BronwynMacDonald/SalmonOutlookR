@@ -2,6 +2,7 @@
 # salmonOutlookFn.R
 # By Erika Anderson
 # Created August 2018
+# Main script to produce salmon outlook maps
 
 #======================================================================================================
 #' Salmon Outlook Maps
