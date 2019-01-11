@@ -67,3 +67,4 @@ Output/
 *RData/
 InputData/
 *.png
+.Rproj.user
