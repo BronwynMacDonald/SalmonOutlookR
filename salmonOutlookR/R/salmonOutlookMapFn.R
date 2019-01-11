@@ -1,3 +1,4 @@
+# test script to find other basemaps since issues with google
 # basemap from R packages maps or mapdata
 
 library(ggplot2)
