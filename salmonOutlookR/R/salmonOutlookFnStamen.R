@@ -2,6 +2,7 @@
 # salmonOutlookFn.R
 # By Erika Anderson
 # Created August 2018
+# duplicate function using stamen maps instead of google
 
 #======================================================================================================
 #' Salmon Outlook Maps
