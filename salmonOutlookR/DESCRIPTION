@@ -1,0 +1,12 @@
+Package: salmonOutlook
+Type: Package
+Title: Produce Salmon Outlook Maps
+Version: 0.1.0
+Author: Erika Anderson
+Maintainer: Erika Anderson <Erika.Anderson@dfo-mpo.gc.ca>
+Description: Produces salmon outlook maps by species for BC and
+    Yukon based on minimum, maximum, and change overall for 
+    conservation units within each outlook group.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true

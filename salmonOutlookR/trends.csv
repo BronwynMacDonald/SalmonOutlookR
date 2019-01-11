@@ -1,0 +1,93 @@
+OL,Stock,Species,min,max,change
+1,Okanagan,Sockeye,1,2,-1
+2,Early Stuart,Sockeye,1,1,0
+3,Early Summer - North Thompson,Sockeye,2,2,-1
+4,Early Summer - South Thompson,Sockeye,2,2,-1
+5,Early Summer - Mid and Upper Fraser,Sockeye,1,2,-1
+6,Early Summer - Lower Fraser,Sockeye,2,3,0
+7,Summer - Chilko,Sockeye,4,4,0
+8,Summer - Late Stuart,Sockeye,1,1,-1
+9,Summer - Nechako,Sockeye,3,3,-1
+10,Summer - Quesnel,Sockeye,1,1,-1
+11, Fall Cultus,Sockeye,1,1,0
+12,Fall Portage,Sockeye,1,1,0
+13,Fall South Thompson,Sockeye,2,2,-1
+14,Fall Birkenhead,Sockeye,2,2,-1
+15,Fall Lower Fraser,Sockeye,1,3,0
+16,Somass,Sockeye,3,4,1
+17,Henderson,Sockeye,2,2,0
+18,WCVI - Other,Sockeye,2,3,1
+19,Areas 11 to 13,Sockeye,2,3,0
+20,Sakinaw,Sockeye,1,1,0
+21,Areas 7 to 10,Sockeye,1,3,0
+22,Coastal Areas 3 to 6,Sockeye,2,3,-1
+23,Babine Lake - Enhanced,Sockeye,2,2,0
+24,Skeena - Wild,Sockeye,2,2,1
+25,Nass,Sockeye,2,3,0
+26,Haida Gwaii,Sockeye,3,3,0
+27,Alsek,Sockeye,3,3,0
+28,Stikine - Wild,Sockeye,4,4,0
+29,Taku - Wild,Sockeye,4,4,0
+39,WCVI - Hatchery,Chinook,3,3,0
+40,WCVI - Wild,Chinook,1,1,0
+41,Johnstone Strait area including mainland inlets,Chinook,2,4,0
+42,Georgia Strait Fall (wild and small hatchery operations),Chinook,2,3,0
+43,Georgia Strait Fall (large hatchery operations),Chinook,3,3,0
+44,Georgia Strait Spring and Summer,Chinook,2,2,0
+45,Areas 7 and 8,Chinook,3,4,0
+46,Areas 9 and 10,Chinook,2,4,0
+47,Coastal Areas 3 to 6,Chinook,2,3,0
+48,Nass,Chinook,2,3,0
+49,Haida Gwaii,Chinook,-99,-99,-99
+50,Skeena,Chinook,2,3,0
+51,Alsek,Chinook,2,3,1
+52,Stikine,Chinook,2,2,0
+53,Taku,Chinook,2,2,0
+54,Yukon,Chinook,2,2,0
+55,Mid and Upper - Fraser,Coho,-9999,-9999,-9999
+56,Thompson,Coho,-9999,-9999,-9999
+57,Lower Fraser,Coho,1,1,0
+58,WCVI,Coho,3,3,1
+59,Area 12,Coho,2,3,0
+60,Area 13 - North,Coho,2,3,0
+61,Georgia Strait,Coho,2,2,0
+62,Areas 7 to 10,Coho,-99,-99,-99
+63,Areas 5 and 6,Coho,-99,2,1
+64,Area 3,Coho,2,3,-1
+65,Haida Gwaii - East (Area 2 East),Coho,2,2,-1
+66,Haida Gwaii - North (Area 1),Coho,-99,-99,-99
+67,Haida Gwaii - West (Area 2 West),Coho,-99,-99,-99
+68,Skeena,Coho,2,3,-1
+69,Skeena High Interior,Coho,2,3,-1
+70,Alsek,Coho,3,3,0
+71,Stikine,Coho,-99,-99,-99
+72,Taku,Coho,3,3,0
+73,Yukon,Coho,-99,-99,-99
+74,Fraser Odd only,Pink,2,2,-1
+75,Squamish - Odd only,Pink,-99,-99,-99
+76,WCVI - Odd & Even,Pink,-99,-99,-99
+77,Areas 11 to 13 - Odd & Even,Pink,2,3,0
+78,Georgia Strait - West - Odd & Even,Pink,2,2,-1
+79,Georgia Strait - East - Odd & Even,Pink,2,2,-1
+80,Areas 7 to 10 - Odd & Even,Pink,1,4,0
+81,North Coast Areas 3 to 6 - Odd & Even,Pink,2,3,-1
+82,Haida Gwaii - Odd & Even,Pink,-99,-99,-99
+83,Fraser River,Chum,3,3,-1
+84,WCVI,Chum,2,3,0
+85,Johnstone Strait Area and Mainland Inlets (A11 to A13),Chum,2,3,-1
+86,Georgia Strait,Chum,3,3,0
+87,Coastal Areas 5 & 6,Chum,1,2,-1
+88,Haida Gwaii,Chum,2,4,0
+89,Skeena - Nass,Chum,1,2,0
+90,Areas 7 to 10,Chum,2,4,-1
+91,Yukon,Chum,3,3,-1
+92,Porcupine (Yukon),Chum,2,2,0
+93,Taku,Chum,2,2,0
+94,Summer - Harrison,Sockeye,1,3,-1
+95,Summer - Raft,Sockeye,2,2,-1
+96,Fraser River Spring Run 42,Chinook,1,1,0
+97,Fraser River Spring Run 52,Chinook,1,1,0
+98,Fraser River Summer Run 52,Chinook,1,1,0
+99,Fraser River Summer Run 41,Chinook,2,2,0
+100,Fraser River Fall Run 41,Chinook,2,2,0
+42,Johnstone Strait Fall (wild and small hatchery operations),Chinook,2,3,0
